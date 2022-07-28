@@ -33,7 +33,7 @@
   - FE
     - 이상치 처리
       - 시각적 : box-plot
-      - 통계적 : IQZ, z-score
+      - 통계적 : IQR, z-score
     - 중복치 확인
     - 범주화
     - 정규화
