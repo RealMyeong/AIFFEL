@@ -27,9 +27,16 @@
 ## 4. 진행 방향
 
   - EDA
-    - 
+    - Summary : head, tail, shape, info, 데이터 소개 및 feature 설명
+    - Statistics : vif, 왜도, 첨도
+    
   - FE
-    - 
-  - Model
-    -
+    - 이상치 처리
+      - 시각적 : box-plot
+      - 통계적 : IQZ, z-score
+    - 중복치 확인
+    - 범주화
+    - 정규화
+    
+    
 ## 5. 회고
